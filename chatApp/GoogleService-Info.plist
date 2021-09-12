@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>837876302793-qrj2qqau0rcgmbtoqs90ulre2di6o3nv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.837876302793-qrj2qqau0rcgmbtoqs90ulre2di6o3nv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC69SvVN6ZutLj1_FDDqu6QdWAWLHrfHAQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>837876302793</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.syoyabu.chatApp</string>
+	<key>PROJECT_ID</key>
+	<string>minnade-chat</string>
+	<key>STORAGE_BUCKET</key>
+	<string>minnade-chat.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:837876302793:ios:d0f0146c8f2247b9371e18</string>
+</dict>
+</plist>
