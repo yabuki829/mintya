@@ -3,7 +3,7 @@
 
 # <画像1 プロフィール画像選択画面>
 
-写真選択画面　名前登録画面　隠しコマンド的なものも作りました。
+写真選択画面　名前登録画面　
 <div align="center">
 <img width="320" alt="スクリーンショット 2021-09-23 12 29 04" src="https://user-images.githubusercontent.com/67153136/134451215-fa72bbd3-1b7e-498d-b072-1ebde56c3697.png">
 </div>
